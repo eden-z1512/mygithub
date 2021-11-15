@@ -13,6 +13,6 @@ public class TestCCircleArea{
    public static void main(String args[])   {
       CCircle cir1=new CCircle();   
       cir1.setCircle(2.0,3.1416);
-      System.out.println("area="+cir1.getArea()); 
+      System.out.println("圆的面积="+cir1.getArea()); 
    }
 }
